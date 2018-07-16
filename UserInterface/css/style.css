@@ -454,7 +454,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .parallax {
     /* The image used */
-    background: url(../img/coverimg.jpg) no-repeat center top;
+    background: url(../img/banner-image.jpg) no-repeat center top;
     /* Full height */
     width: 100%;
     height: auto;
@@ -518,5 +518,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 12px;
 	font-weight: 300;
 	text-transform: uppercase;
+}
+.overwritten_intro-text{
+	margin-top: 100px;
 }
 /*---------------*/
